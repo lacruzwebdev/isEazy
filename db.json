@@ -1,0 +1,58 @@
+{
+  "api": [
+    { 
+      "hasFile": false,
+      "user": {
+        "id": 0,
+        "pic": "./src/assets/avatar0.webp"
+      },
+      "text": "Buenas tardes, acabo de subir el primer archivo con el primer caso práctico, espero revisión.",
+      "date": "2018-12-28T14:45:10Z"
+    },
+    { 
+      "hasFile": true,
+      "title": "Título del archivo a subir 2.pdf",
+      "type": "PDF",
+      "size": "4.8MB",
+      "date": "2018-12-30T08:22:00Z",
+      "v": 2,
+      "url": "archivo2.pdf"
+    },
+    { 
+      "hasFile": false,
+      "user": {
+        "id": 1,
+        "pic": "./src/assets/avatar1.webp"
+      },
+      "text": "¡Gran trabajo Silvia! Pero creo que deberías revisar el punto 3. Intenta añadir un poco más de contexto y un apartado final de conclusiones personales.",
+      "date": "2018-12-29T10:11:00Z"
+    },
+    { 
+      "hasFile": false,
+      "user": {
+        "id": 1,
+        "pic": "./src/assets/avatar1.webp"
+      },
+      "text": "Perfecto, excelente trabajo.",
+      "date": "2018-12-30T15:25:00Z"
+    },
+    { 
+      "hasFile": false,
+      "user": {
+        "id": 0,
+        "pic": "./src/assets/avatar0.webp"
+      },
+      "text": "Realizados los cambios según feedback.",
+      "date": "2018-12-30T08:22:10Z"
+    },
+    { 
+      "hasFile": true,
+      "title": "Título del archivo a subir 2.pdf",
+      "type": "PDF",
+      "size": "3.8MB",
+      "date": "2018-12-28T14:45:00Z",
+      "v": 1,
+      "url": "archivo1.pdf"
+    }
+  ]
+}

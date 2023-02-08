@@ -10,6 +10,12 @@ Y lanzar la aplicación + JSON Server
 ```
 npm run dev
 ```
+
+Accedemos a la app en 
+```
+http://localhost:5173
+```
+
 He usado las cuatro herramientas principales que pedíais:
 ```
 Vue 3

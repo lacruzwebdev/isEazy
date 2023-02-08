@@ -47,6 +47,8 @@ Carpeta con las fotografías de los usuarios
 **convo.js** - Store de Pinia donde hacemos fetch de los mensajes a JSON Server, añadimos mensajes nuevos y los guardamos en state.
 
 ## Notas
-Todos los documentos están comentados explicándolo todo. Si tenéis alguna pregunta no dudéis en poneros en contacto conmigo
+Todos los documentos están comentados explicándolo todo. Ha sido grato volver a Vue después de tanto tiempo y probar un poco el funcionamiento de Pinia.
 
+Si tenéis alguna pregunta no dudéis en poneros en contacto conmigo
 
+¡Un saludo!
